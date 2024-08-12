@@ -51,6 +51,13 @@ Inventory management is crucial for businesses. By accurately predicting future 
 7. **Clustering**: K-means was used for clustering.
 8. **RFM**: RFM analysis was use to classify the clusters for marketing strategies.
 
+## Git uploads
+- EcomDAtaTransform-1.ipynb contains the code for data preprocessing, feature engineering, visualization, modeling and clustering. Here the transformed data (part-00000-tid-6505393303909980396-cd400216-3502-4fcc-98a3-2be5ab25b152-365-1-c000) was saved in Azure Datalake.
+- EconBizVisual-1 contains the 3 pages of bussiness analytics
+- Processed_data is a pickled preprocessed data
+- Standardized pickle were uploaded in batches of 10k entries due to the size of dataset.
+- Selected features were pickled as Transact_data.pkl
+- XGBoost model was saved with joblib
 ## Results & Insights
 
 Each model provided unique insights into the data, and we compared them to determine which one had better RMSE and R2 for our prediction goals. XGBoost performed metrics had the best with 97% accuracy while the customers are predicted to be in 3 classes named: Loyal, Ocassionally and at risk. With the prediction and customer classification, the company will optimize their inventory based on the spending power of thier customrers all over the world and imprement strategies to keep most loyal.
