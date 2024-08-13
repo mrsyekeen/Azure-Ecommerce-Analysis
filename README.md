@@ -64,4 +64,4 @@ Each model provided unique insights into the data, and we compared them to deter
 
 ## Acknowledgments
 
-We Kaggle for providing the data and overview, our instructor for his support, knowldge and direction on this project, above all, the entire team for making possible for us to learn how to use different platforms to achieve the project success.
+We Kaggle for providing the data and overview, our instructor Meysam for his support, knowldge and direction on this project, above all, the entire team for making possible for us to learn how to use different platforms to achieve the project success.
