@@ -1,4 +1,4 @@
-# Group Project: Azure Ecommerce business Analysis 
+# Group Project: Azure Ecommerce Business Analysis 
 
 
 Welcome to our project! We have taken this project to express our knowledge of buisness intelligence on a kaggle UK online business dataset (https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
